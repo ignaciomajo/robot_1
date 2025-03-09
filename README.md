@@ -70,4 +70,37 @@ Una vez que el robot haya extraído la información de los artículos delimitado
 
 #### El proceso vuelve a repetirse con un segundo producto, por lo que debemos repetir el proceso, comenzando con el comando que asigna un nuevo valor a la variable **{producto}**.
 
+Finalmente el archivo Excel que contiene toda la información extraída quedará guardado en la carpeta **resources** que se encuentra dentro de **main**.
+
+## 3. Tecnologías utilizadas 🛠️
+
+* `Rocketbot Studio (v.2025.01.06)`
+* `Git and GitHub`
+* `OBS (screen recorder)`
+* `HTML`
+* `Python`
+* `Excel (requerido para ejecutar el robot)`
+
+## 4. Colaboradores del proyecto 🏗️
+
+Quiero agradecer a:
+
+![BotSolutions](https://github.com/user-attachments/assets/4dda0262-5b97-4b60-a692-db5aa7825d4b)
+
+#### BotSolutions
+
+Por la capacitación en la herramienta y en la oportunidad de aprender de la mano de ellos.
+
+![Rocketbot](https://github.com/user-attachments/assets/5e61e12c-8fe3-4505-8463-0cf648ecda96)
+
+#### Rocketbot
+
+Por desarrollar la herramienta y proveer cursos gratuitos para aprender a utilizarla.
+
+
+## 5. Desarrollador del proyecto
+
+![imagen-readme](https://github.com/user-attachments/assets/133bc743-0424-4120-a7a6-7245d2f28f8c)
+
+**| Ignacio Majo | Data Scientist Junior | Junior RPA Developer |**
 
