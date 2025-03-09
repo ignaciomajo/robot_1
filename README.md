@@ -17,7 +17,7 @@ Este proyecto mustra tan solo una parte de la capacidad de automatizar un proces
 Resulta importante remarcar que esto es tan solo un ejemplo, ya que es posible extraer cualquier información de un sitio web usando RPA.
 
 
-## 2. Demostración de funcionalidades y aplicaciones :memo:
+## 2. Demostración de funcionalidades y aplicaciones 📝
 
 
 ![pantalla_inicial](https://github.com/user-attachments/assets/1d3a6160-2775-43c2-9a00-98724c82aee4)
@@ -99,7 +99,7 @@ Por la capacitación en la herramienta y en la oportunidad de aprender de la man
 Por desarrollar la herramienta y proveer cursos gratuitos para aprender a utilizarla.
 
 
-## 5. Desarrollador del proyecto
+## 5. Desarrollador del proyecto 👷
 
 ![imagen-readme](https://github.com/user-attachments/assets/133bc743-0424-4120-a7a6-7245d2f28f8c)
 
