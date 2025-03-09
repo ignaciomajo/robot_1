@@ -91,6 +91,7 @@ Quiero agradecer a:
 
 Por la capacitación en la herramienta y en la oportunidad de aprender de la mano de ellos.
 
+------------------------------------------------------------------------------------------------------
 ![Rocketbot](https://github.com/user-attachments/assets/5e61e12c-8fe3-4505-8463-0cf648ecda96)
 
 #### Rocketbot
